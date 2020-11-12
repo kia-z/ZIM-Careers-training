@@ -2,35 +2,23 @@
 #body {
   font-family: Arial;
 }
-	
-	
 #navbar-custom {
-	background: #B1B4BA;
-	color: #E3E9ED;
+	background: #338D00;
+	color: #ffffff;
 	font-size: 14px;
 	font-weight: lighter;
 	
 }
 .navbar-default {
-    background-color: #343a40; 
+	background-color: #338D00; 
 	background-image: none;
-  background-repeat: no-repeat;
+  	background-repeat: no-repeat;
 }
-
-
 footer {
-	color: #B1B4BA;
-	font-size: 14px;
+	color: #ffffff;
+	font-size: 16px;
 	font-weight: lighter;
-	background: #343a40;
+	background: #338D00;
 	text-align: left;
 	margin: auto;	
 }
-
- .box{
-        height: 100px;
-        background: #fff;
-        border-radius: 5px;
-        margin-bottom: 10px;
-        max-width: 100px;
-    }
