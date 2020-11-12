@@ -2,14 +2,14 @@
 #body {
   font-family: Arial;
 }
-#navbar-custom {
+#navbar-toggler {
 	background: #262121;
 	color: #ffffff;
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: lighter;
 	
 }
-.navbar-default {
+.navbar {
 	background-color: #262121; 
 	background-image: none;
   	background-repeat: no-repeat;
