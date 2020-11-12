@@ -1,12 +1,11 @@
 /* CSS by Chiara */
-#p {
+#body {
   font-family: Arial, Helvetica, sans-serif;
 }
 	
 	
 #navbar-custom {
 	background: #B1B4BA;
-	font-family: Helvetica, Arial, sans-serif;
 	color: #E3E9ED;
 	font-size: 14px;
 	font-weight: lighter;
@@ -20,7 +19,6 @@
 
 
 footer {
-	font-family: Helvetica, Arial, sans-serif;
 	color: #B1B4BA;
 	font-size: 14px;
 	font-weight: lighter;
