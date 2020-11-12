@@ -2,12 +2,14 @@
 #body {
   font-family: Arial;
 }
-#navbar-dropdown {
+
+#navbar-custom {
 	background: #262121;
 	color: #ffffff;
 	font-size: 14px;
 	font-weight: lighter;
-	
+}
+
 }
 footer {
 	color: #ffffff;
